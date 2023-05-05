@@ -3,4 +3,4 @@ we define a constant for the gravitational acceleration using the final keyword 
 CHIDEBE ASHER OLUEBUBECHUKWU, BHU/21/04/05/0093
 UKPATA EMMANUEL, BHU/21/04/05/50
 AGBO EDWIN JOSEPH, BHU/21/04/10/0018
-EM
+EMMANUEL DAVID, BHU/21/04/06/0012
