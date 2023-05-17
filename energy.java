@@ -23,6 +23,11 @@ public class energy {
         double gravity = physics.getGravity();
         return initialKE + workDone;
   }
+    
+  public static double calculateEnergy(double m, double c){
+      double energy = m * (c * c);
+      return energy; 
+  }
 }
 
 
