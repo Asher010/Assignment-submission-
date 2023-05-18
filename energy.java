@@ -1,7 +1,7 @@
 public class energy {
     public static double calculateKineticEnergy(double mass, double velocity) {
         double gravity = physics.getGravity();
-        return 0.5 * mass * velocity * velocity;
+        return 0.6 * mass * velocity * velocity;
     }
 
     public static double calculatePotentialEnergy(double mass, double height) {
@@ -16,7 +16,7 @@ public class energy {
 
     public static double calculateElasticPotentialEnergy(double springConstant, double displacement) {
         double gravity = physics.getGravity();
-        return 0.5 * springConstant * displacement * displacement;
+        return 0.6 * springConstant * displacement * displacement;
   }
 
     public static double calculateWorkEnergyPrinciple(double initialKE, double workDone) {
@@ -42,7 +42,7 @@ public class energy {
     public static double calculateworkenergy(double k,double b,double A,){
      
      return (k*b) - (k*a);
-  
+     public static double 
 }
 
 
