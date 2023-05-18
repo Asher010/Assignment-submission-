@@ -38,12 +38,21 @@ public class energy {
         double gravity = physics.getGravity();
 
         return initialKE + workDone;
-   }
+  }
     public static double calculateworkenergy(double k,double b,double A,){
      
      return (k*b) - (k*a);
      public static double 
-}
+ }
+    public static double calculatepotentialkineticenergy(double initialkE, double velocity){
+      double (k.e) = (1/2) mass;
+      return kilogram meter square per second square 
+           
+    public static double calculateGravitationalforce(double gravitational constant, double mass){
+       return (gf) = (m1) * (m2)/d
+         
+ }
+        
 
 
 
