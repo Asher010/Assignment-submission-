@@ -28,6 +28,21 @@ public class energy {
       double energy = m * (c * c);
       return energy; 
   }
+    public static double calculatemass(double m, double h){
+        double mass = m *(m * h);
+        return joules;
+  }
+
+     public static double calculateWorkEnergyPrinciple(double initialKE, double workDone) {
+
+        double gravity = physics.getGravity();
+
+        return initialKE + workDone;
+   }
+    public static double calculateworkenergy(double k,double b,double A,){
+     
+     return (k*b) - (k*a);
+  
 }
 
 
