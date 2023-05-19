@@ -3,7 +3,12 @@ public class energy {
         double gravity = physics.getGravity();
         return 0.6 * mass * velocity * velocity;
     }
-
+public class energy at rest{
+    public static double calculatelatentEnergy(double qauntity, double mass) {
+        double quantity = physics.getGravity();
+        return heat * joules /moles;
+        
+        
     public static double calculatePotentialEnergy(double mass, double height) {
         double gravity = physics.getGravity();
         return mass * gravity * height;
@@ -49,7 +54,7 @@ public class energy {
       return kilogram meter square per second square 
            
     public static double calculateGravitationalforce(double gravitational constant, double mass){
-       return (gf) = (m1) * (m2)/d
+       return (gf) = (m1) * (m2)/d;
          
  }
         
